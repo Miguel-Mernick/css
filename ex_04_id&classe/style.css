@@ -1,0 +1,21 @@
+h1{
+    color: purple;
+    font-size: 25px;
+}
+p{
+    font-weight: bold;
+    font-style: oblique;
+    color: blueviolet;
+}
+h2{
+    color: blue;
+    font-size: 25px;
+}
+#p2{
+   color: cornflowerblue;
+   font-style: oblique;
+}
+.texto{
+    color: chartreuse;
+    font-style: oblique;
+}
