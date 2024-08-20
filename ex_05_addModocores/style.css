@@ -1,0 +1,19 @@
+.nome{
+     color: blueviolet;
+   background-color: bisque;
+}
+.hexadecimal{
+    color: #ff0000;
+    background-color: black;
+}
+.RGBA{
+    color: #ff0000;
+    background-color: rgba(255, 0, 0, 0.2);
+}
+.titulo-background{
+    background-color: cornflowerblue;
+}
+.div-background{
+    background-image: url(6fecc1454ee825ecf7dde0328f86a90f.jpg);
+    height: 1000px;
+}
