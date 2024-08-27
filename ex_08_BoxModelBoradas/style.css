@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+}
+.boxmodel1{
+    width: 200px;
+    height: 200px;
+    background-color: coral;
+    padding: 30px 30px;
+    border: 10px solid gray;
+    border-left: 15px dotted grey;
+    border-right-style: double;
+    border-width: 15px 10px;
+    border-radius: 30px;
+    margin: 100px 45px;
+}
+.boxmodel2{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    padding: 30px 30px;
+    border: 10px solid yellowgreen;
+    border-left: 15px dotted yellowgreen;
+    border-right-style: double;
+    border-width: 15px 10px;
+    border-radius: 30px;
+    margin: 100px 45px;
+}
+.paragrafo-box{
+    color: dimgray;
+    margin: 10;
+}
