@@ -1,0 +1,11 @@
+.posicao {
+    width: 200px;
+    height: 200px;
+    background-color: darkorchid;
+    border-bottom: 3px dashed purple;
+}
+.static{
+    border-right: 5px solid;
+    position: static;
+    top: 20px;
+}
