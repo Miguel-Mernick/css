@@ -1,0 +1,16 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+@media screen and (mín-width:1024px) {
+    h1 {font-size: 48px; color: springgreen;} 
+    p {font-size: 24px;}   
+}
+@media (mín-width:768px) and (max-width:1023px) {
+    h1 {font-size: 24px;}
+    p {font-size: 28px;}
+    body {background-color: steelblue;}
+}
+@media screen and (max-width:767px) {
+    h1 {font-size: 48px; color: springgreen;} 
+    p {font-size: 24px;}  
+}
